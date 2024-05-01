@@ -8,3 +8,6 @@
 
 
 ![Screenshot 2024-05-01 223514](https://github.com/Nilesh-Bhoi23/Rock-Paper-Scissors-Game/assets/147185281/b9701d91-3f18-401f-bad1-9cbbdd09b243)
+
+
+![Screenshot 2024-05-01 223532](https://github.com/Nilesh-Bhoi23/Rock-Paper-Scissors-Game/assets/147185281/bfaf69bd-5474-4e81-841e-9f2b92638617)
